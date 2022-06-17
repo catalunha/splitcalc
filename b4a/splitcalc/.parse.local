@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "splitcalc"
+    },
+    "splitcalc": {
+      "applicationId": "AvjOoq60lfvgQIXseR5C4XBZEHFNWId0xN0sfOo8"
+    }
+  }
+}
